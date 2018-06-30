@@ -1,0 +1,3 @@
+/media/vinicius/Meus arquivos/workspace/workspace Clion/projetoP2ViniciusSouza/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/vinicius/Meus arquivos/workspace/workspace Clion/projetoP2ViniciusSouza/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/vinicius/Meus arquivos/workspace/workspace Clion/projetoP2ViniciusSouza/cmake-build-debug/CMakeFiles/projetoP2ViniciusSouza.dir

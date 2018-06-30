@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/projetoP2ViniciusSouza.dir/main.c.o  -o projetoP2ViniciusSouza 
